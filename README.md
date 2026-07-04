@@ -8,13 +8,13 @@ A modern, responsive, and interactive SaaS Landing Page built using **React.js**
 
 🔗 **Vercel Deployment**
 
-
+🔗 https://teyzix-saas-platform.vercel.app/
 
 ---
 
 # 💻 GitHub Repository
 
-🔗 https://github.com/yourusername/teyzix-saas-platform
+🔗 https://github.com/AbdulRaziqG0812/teyzix-saas-platform
 
 ---
 
@@ -168,6 +168,7 @@ src/
 │
 ├── components/
 │   ├── Navbar.jsx
+├── sections/
 │   ├── Hero.jsx
 │   ├── ProductShowcase.jsx
 │   ├── Pricing.jsx
@@ -189,7 +190,7 @@ src/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/teyzix-saas-platform.git
+git clone https://github.com/AbdulRaziqG0812/teyzix-saas-platform.git
 ```
 
 Move into the project
@@ -285,15 +286,17 @@ screenshots/
 
 **Abdul Raziq**
 
-BS Data Science
+BS Digital System And Web Technology 
 
 Frontend Web Developer
 
+Internship ID: TC-INT-20260602-422
+
 GitHub:
-https://github.com/yourusername
+https://github.com/AbdulRaziqG0812
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/abdul-raziq-a42787336/
 
 ---
 
